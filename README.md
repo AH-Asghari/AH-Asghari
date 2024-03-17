@@ -24,11 +24,8 @@
 
 
 <!--- Connect With Me Gif --->
-📫 How To Reach Me ...
-<h3> Connect With Me : </h3>
-<h3 style="font-weight:normal;">Connect With Me :</h3>
 
-
+Connect With Me :
 
 <a href="https://www.linkedin.com"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin Profile" width="40" height="40"> </a> 
 <a href="https://www.instagram.com/amirhossein_asgharie?igsh=b2RscmhmMTJlZ255&utm_source=qr"> <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram Profile" width="40" height="40"> </a> 
@@ -38,9 +35,17 @@
 <!--- Languages Gif --->
 Languages And Tools : 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="30px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" width="40px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40px">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="35px"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40px">
-  <!--- <img src="https://developer.apple.com/swift/images/swift-og.png" width="40px"> --->
+
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="40" height="40"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="30"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="JAVASCRIPT Logo" width="39"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Native Logo" width="40"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="" width="38" height="38"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Logo" width="40" height="40"></a>
+
+<!--- <a href="#"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="" width="40" ></a> --->
+
+
 
   
 <!---

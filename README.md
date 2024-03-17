@@ -4,7 +4,10 @@
 - 👀 I’m interested in ...
 - 
 - 🌱 I’m currently learning ...
-- 
+
+ - 🌱 I’m currently learning ... - 🌱 I’m currently learning ...- 🌱 I’m currently learning ... - 🌱  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300px">
+
+
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
@@ -13,6 +16,8 @@
 - 
 - ⚡ Fun fact: ...
 
+
+<img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200px">
 
 
 - Connect With Me :

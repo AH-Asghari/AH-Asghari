@@ -11,6 +11,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
+
+![Me](https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif) 
 - 
 - 😄 Pronouns: ...
 - 
@@ -22,6 +24,15 @@
 
 - Connect With Me :
 
+
+[![Linkedin Profile](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif =40x40)](https://www.linkedin.com)
+
+
+<a href="https://www.linkedin.com"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin Profile" width="40" height="40"> </a> 
+<a href="https://www.linkedin.com"> <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram Profile" width="40" height="40"> </a> 
+<a href="https://www.linkedin.com"> <img src="https://images.app.goo.gl/JtwTgd7g4tKQaGKX6"> </a> 
+
+<img src="https://dribbble.com/shots/14510264-Gmail-Opening-Animation/attachments/6196247?mode=media" width="40px"
 
 <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="40px"> <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" width="40px">
 

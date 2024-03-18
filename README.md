@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in ...
 - 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React Native <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Native Logo" width="20"></a>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="200px">
 
@@ -41,9 +41,18 @@ Languages And Tools :
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="JAVASCRIPT Logo" width="39"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Native Logo" width="40"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="" width="38" height="38"></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Logo" width="40" height="40"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Logo" width="36" height="36"></a>
 
-<!--- <a href="#"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="" width="40" ></a> --->
+
+
+<!---
+<a href="#"><img src="https://i.postimg.cc/Pvp29M11/31.png" alt="C Logo" width="35" height="40"></a>
+<a href="#"><img src="https://crystalpng.com/wp-content/uploads/2023/02/C-Sharp-logo.png" alt="C# Logo" width="40" height="40"></a>
+<a href="#"><img src="https://i.postimg.cc/ft08gKcm/30.png" alt="C++ Logo" width="35" height="40"></a>
+<a href="#"><img src="https://i.postimg.cc/nsb3XWN5/33-1.png"  alt="Swift Logo" width="40" height="40"></a>
+<a href="#"><img src="https://i.postimg.cc/GHB22gFv/django.png" alt="Django Logo" width="40" height="40"></a>
+--->
+
 
 
 

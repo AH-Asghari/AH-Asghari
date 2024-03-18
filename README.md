@@ -27,8 +27,8 @@
 
 Connect With Me :
 
-<a href="https://www.linkedin.com"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin Profile" width="40" height="40"> </a> 
-<a href="https://www.instagram.com/amirhossein_asgharie?igsh=b2RscmhmMTJlZ255&utm_source=qr"> <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram Profile" width="40" height="40"> </a> 
+<a href="https://www.linkedin.com/in/amirhossein-asghari-7b65172bb"> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin Profile" width="40" height="40"> </a> 
+<a href="https://www.instagram.com/weblator.ir?igsh=cmdjZnFtYTVieWhk&utm_source=qr"> <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="Instagram Profile" width="40" height="40"> </a> 
 <a href="mailto:amirhossein.asghari@outlook.com"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgyMXZkNjkxNHhvZ2MwN3Z0cWI1MDhsbHEyY2V3NmE4OXN4dWJxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MSl6ARLendLEnjmiud/source.gif" alt="Gmail Profile" width="40" height="40"> </a> 
 
 
